@@ -2,7 +2,7 @@
 
 - Vinyl DJ 🎵
 
-A personal music recommendation app that acts as my own virtual DJ by selecting a vinyl record from your collection based on mood and preferred genre.
+A personal music recommendation app that acts as my own virtual DJ by selecting a vinyl record from my collection based on mood and preferred genre.
 
 - Introduction - 
 
