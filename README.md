@@ -42,11 +42,3 @@ Also included in this repository are all the archived versions of my app startin
 Addison Margaret Efremidis
 
 Bachelor of Communications (Media Business) student with a passion for music, vinyl culture, digital experiences, and creative technology.
-
-- Sources used - 
-
-Random Module source: https://docs.python.org/3/library/random.html
-
-Tkinter introduction source: https://www.youtube.com/watch?v=6aKmTV6eYt8
-
-Drop down Menu explainer source: https://www.geeksforgeeks.org/python/dropdown-menus-tkinter/
