@@ -29,6 +29,7 @@ As someone who is naturally indecisive when it comes to choosing what to listen 
 
 - Project Status
 ✅ Completed and functional
+Also included in this repository are all the archived versions of my app starting from the beginning, to see the progress of where I started and what eventually becomes the completed version of my app.
 
 - Author
 Addison Margaret Efremidis
