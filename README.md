@@ -32,13 +32,8 @@ This project combines two of my biggest passions: music and vinyl records.
 
 As someone who is naturally indecisive when it comes to choosing what to listen to, I wanted to create a fun tool that removes the stress of decision-making while encouraging me to revisit records throughout my collection.
 
-- Project Status - 
-
-✅ Completed and functional
 Also included in this repository are all the archived versions of my app starting from the beginning, to see the progress of where I started and what eventually becomes the completed version of my app.
 
 - Author - 
 
 Addison Margaret Efremidis
-
-Bachelor of Communications (Media Business) student with a passion for music, vinyl culture, digital experiences, and creative technology.
